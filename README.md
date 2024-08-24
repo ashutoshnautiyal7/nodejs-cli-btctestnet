@@ -9,9 +9,13 @@ A command-line interface (CLI) tool built with Node.js and Oclif for managing Bi
   input: ./bin/run.js create-wallet --name mywalletnew
 
   ouput: creating wallet : mywalletnew
+
   The wallet directory is : /home/ashutosh/.local/share/nodejs-oclif-cli/wallets
+
   The wallet path is : /home/ashutosh/.local/share/nodejs-oclif-cli/wallets/mywalletnew.json
+
   the wallet mywalletnew created successfully
+
   the generated mnemonic is : extra present crane typical stumble asthma expect submit actress open degree embody
 
 - `import-wallet`: Import an existing wallet using a BIP39 mnemonic
