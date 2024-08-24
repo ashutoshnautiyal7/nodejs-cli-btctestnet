@@ -43,12 +43,6 @@ A command-line interface (CLI) tool built with Node.js and Oclif for managing Bi
 
 ## Getting Started
 
-[Include installation instructions and basic usage examples here]
-
-## Contributing
-
-[Information about how others can contribute to the project]
-
-## License
-
-[Specify the license under which this project is released]
+- you would require to create blockcypher api token and store it in the .env file
+- step 2 : npm i
+- step 3 : write any commands as mentioned
